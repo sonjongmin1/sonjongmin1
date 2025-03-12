@@ -1,8 +1,14 @@
 ![intro](./img/intro.png)
 
+
+<div align="center">
+	
+		  "누구나 편리하게" 사용할 수 있는 서비스를 목표로 기술적 도전과 창의적 해결책을 찾아갑니다.
+	
+</div>
+
 <div style="text-align: center;">
-    "누구나 편리하게" 사용할 수 있는 서비스를 목표로<br>
-    기술적 도전과 창의적 해결책을 찾아갑니다.
+  
 </div>
 
 <div align="center">
