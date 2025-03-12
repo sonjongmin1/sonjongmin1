@@ -1,15 +1,20 @@
-# Hi, I'm Jongmin Son.
+![intro](./img/intro.png)
 
-## My tech stack 📚  
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff" ">
-    <img src="https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3"">
-    <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"">
-<!--     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" "> -->
-    <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react" ">
-<!--     <img src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" "> -->
-<!--     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" "> -->
-<!--     <img src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff" "> -->
+<div align="center">
+
+        "누구나 편리하게", 사용할 수 있는 서비스를 목표로
+            기술적 도전과 창의적 해결책을 찾아갑니다.
+
 </div>
 
+<div align="center">
+	<h3><a href="https://sonjongmin1.github.io/portfolio/" target="_blank" title="바로가기(새창)"> 📚 손종민 포트폴리오 보기</a></h3>
+</div>
+
+<div align="center">
+	<h4>📫 &nbsp;Email</h4>
+	 <a href="mailto:whdals0525@gmail.com" title="바로가기(새창)" target="_blank">
+  <img src="./img/email.png" alt="intro" width="150">
+</a>
+</div>
 
