@@ -7,10 +7,6 @@
 	
 </div>
 
-<div style="text-align: center;">
-  
-</div>
-
 <div align="center">
 	<h3><a href="https://sonjongmin1.github.io/portfolio/" target="_blank" title="바로가기(새창)"> 📚 손종민 포트폴리오 보기</a></h3>
 </div>
