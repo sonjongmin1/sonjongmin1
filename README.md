@@ -1,7 +1,6 @@
 # Hi, I'm Jongmin Son.
 
 ## My tech stack 📚  
-11
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff" ">
     <img src="https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3"">
